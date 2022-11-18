@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.mainbackground {
+  background-color: #150b3e;
+
+  padding: 40px;
+}
+.heading {
+  display: flex;
+}
+.sheading {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  border-radius: 40px;
+  padding: 20px;
+}
+.name {
+  color: #c7d2fe;
+  padding: 20px;
+}
+.money {
+  display: flex;
+  justify-content: space-between;
+}
+.yourbalance {
+  color: #585076;
+}
+.rupee {
+  color: #c7d2fe;
+}
+.para {
+  color: #585076;
+  text-align: end;
+}
+.withdrawmoney {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  list-style-type: none;
+}

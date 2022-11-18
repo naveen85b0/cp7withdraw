@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.buttonscontainer {
+  display: flex;
+  justify-content: space-around;
+}
+.button {
+  padding: 18px;
+  width: 30vw;
+  font-size: 25px;
+  margin: 10px;
+  background-color: #585076;
+  color: #c7d2fe;
+  cursor: pointer;
+}
